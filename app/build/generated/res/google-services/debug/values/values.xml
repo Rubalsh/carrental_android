@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">745810904551-nlr1jo95hbqhc9ucb3oaq98i8q527kn4.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://rentacar-5833f.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">745810904551</string>
+    <string name="google_api_key" translatable="false">AIzaSyBLWJEbGBr37Vc0zscXUBG7idCIqdB6-l8</string>
+    <string name="google_app_id" translatable="false">1:745810904551:android:b27dfe31c9057e9d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLWJEbGBr37Vc0zscXUBG7idCIqdB6-l8</string>
+    <string name="google_storage_bucket" translatable="false">rentacar-5833f.appspot.com</string>
+    <string name="project_id" translatable="false">rentacar-5833f</string>
+</resources>
