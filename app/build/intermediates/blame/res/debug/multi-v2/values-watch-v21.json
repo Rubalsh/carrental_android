@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\final year\\Subash\\Android\\stw300cem-final-project-Subash-Shrestha-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
+            "outputFile": "D:\\final year\\Subash\\Android\\rubal android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v21\\values-watch-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ice\\.gradle\\caches\\transforms-2\\files-2.1\\c46f91547885c5bbccbc49f8064e4a01\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "source": "C:\\Users\\Ice\\.gradle\\caches\\transforms-2\\files-2.1\\576ba1f589fdc8212b852adb0a5b89f9\\res\\values-watch-v21\\values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

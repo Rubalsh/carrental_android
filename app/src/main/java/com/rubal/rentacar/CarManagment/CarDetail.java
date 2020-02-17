@@ -1,4 +1,4 @@
-package com.subash.rentacar.CarManagement;
+package com.rubal.rentacar.CarManagment;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
@@ -29,8 +29,8 @@ import com.bumptech.glide.Glide;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.firestore.FirebaseFirestore;
-import com.subash.rentacar.MainActivity;
-import com.subash.rentacar.R;
+import com.rubal.rentacar.R;
+import com.rubal.rentacar.MainActivity;
 
 import java.util.Calendar;
 import java.util.HashMap;

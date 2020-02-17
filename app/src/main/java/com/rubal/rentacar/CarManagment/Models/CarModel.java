@@ -1,4 +1,4 @@
-package com.subash.rentacar.CarManagement.Models;
+package com.rubal.rentacar.CarManagement.Models;
 
 
 import com.google.firebase.firestore.IgnoreExtraProperties;

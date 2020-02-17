@@ -1,4 +1,4 @@
-package com.subash.rentacar;
+package com.rubal.rentacar;
 
 import android.content.Intent;
 import android.hardware.Sensor;
@@ -7,14 +7,11 @@ import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.net.Uri;
 import android.os.Bundle;
-
 import android.util.Log;
 import android.view.LayoutInflater;
-import android.view.View;
-
-import android.view.MenuItem;
-
 import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
 import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.widget.Button;
@@ -43,11 +40,11 @@ import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.FirebaseFirestoreException;
 import com.google.firebase.firestore.Query;
-import com.subash.rentacar.CarManagement.AddCar;
-import com.subash.rentacar.CarManagement.CarDetail;
-import com.subash.rentacar.CarManagement.DisplayCars;
-import com.subash.rentacar.CarManagement.Models.CarModel;
-import com.subash.rentacar.CarManagement.MyBookings;
+import com.rubal.rentacar.CarManagment.AddCar;
+import com.rubal.rentacar.CarManagment.CarDetail;
+import com.rubal.rentacar.CarManagment.DisplayCars;
+import com.rubal.rentacar.CarManagement.Models.CarModel;
+import com.rubal.rentacar.CarManagment.MyBookings;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\final year\\Subash\\Android\\stw300cem-final-project-Subash-Shrestha-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
+            "outputFile": "D:\\final year\\Subash\\Android\\rubal android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ice\\.gradle\\caches\\transforms-2\\files-2.1\\b40fedd1786e917be00871d66105ccc4\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\Ice\\.gradle\\caches\\transforms-2\\files-2.1\\8f8842668c27fa98efb02a33f928f352\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Ice\\.gradle\\caches\\transforms-2\\files-2.1\\c46f91547885c5bbccbc49f8064e4a01\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\Ice\\.gradle\\caches\\transforms-2\\files-2.1\\576ba1f589fdc8212b852adb0a5b89f9\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

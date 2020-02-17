@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\final year\\Subash\\Android\\stw300cem-final-project-Subash-Shrestha-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+            "outputFile": "D:\\final year\\Subash\\Android\\rubal android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw360dp-v13\\values-sw360dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Ice\\.gradle\\caches\\transforms-2\\files-2.1\\bfaba240f3307f44c44a0732d9bfdf28\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "source": "C:\\Users\\Ice\\.gradle\\caches\\transforms-2\\files-2.1\\ab073145967ab654c2587baec29bbb1b\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",

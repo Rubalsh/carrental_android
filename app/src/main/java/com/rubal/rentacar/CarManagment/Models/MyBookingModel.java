@@ -1,4 +1,4 @@
-package com.subash.rentacar.CarManagement.Models;
+package com.rubal.rentacar.CarManagement.Models;
 
 public class MyBookingModel {
     private String CarTitle;

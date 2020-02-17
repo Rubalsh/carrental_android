@@ -1,4 +1,4 @@
-package com.subash.rentacar;
+package com.rubal.rentacar;
 
 import android.app.Notification;
 import android.content.Context;
@@ -21,7 +21,7 @@ import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.firestore.FirebaseFirestore;
-import com.subash.rentacar.Notification.CreateChannel;
+import com.rubal.rentacar.Notification.CreateChannel;
 
 import java.util.Arrays;
 import java.util.HashMap;

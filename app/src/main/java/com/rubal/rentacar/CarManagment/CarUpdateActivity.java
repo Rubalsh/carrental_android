@@ -1,10 +1,11 @@
-package com.subash.rentacar.CarManagement;
+package com.rubal.rentacar.CarManagment;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import com.subash.rentacar.R;
+import com.rubal.rentacar.R;
+
 
 public class CarUpdateActivity extends AppCompatActivity {
 

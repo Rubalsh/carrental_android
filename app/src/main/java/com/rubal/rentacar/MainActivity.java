@@ -1,4 +1,4 @@
-package com.subash.rentacar;
+package com.rubal.rentacar;
 
 import android.os.Bundle;
 

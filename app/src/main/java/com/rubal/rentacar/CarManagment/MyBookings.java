@@ -1,4 +1,4 @@
-package com.subash.rentacar.CarManagement;
+package com.rubal.rentacar.CarManagment;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -26,9 +26,9 @@ import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.FirebaseFirestoreException;
 import com.google.firebase.firestore.Query;
-import com.subash.rentacar.CarManagement.Models.CarModel;
-import com.subash.rentacar.CarManagement.Models.MyBookingModel;
-import com.subash.rentacar.R;
+import com.rubal.rentacar.R;
+import com.rubal.rentacar.CarManagement.Models.CarModel;
+import com.rubal.rentacar.CarManagement.Models.MyBookingModel;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;

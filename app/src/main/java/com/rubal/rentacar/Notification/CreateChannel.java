@@ -1,4 +1,4 @@
-package com.subash.rentacar.Notification;
+package com.rubal.rentacar.Notification;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;

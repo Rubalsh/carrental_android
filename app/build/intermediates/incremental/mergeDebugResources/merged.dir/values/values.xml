@@ -768,7 +768,7 @@
     <string name="github_client_id" translatable="false">CHANGE-ME</string>
     <string name="github_client_secret" translatable="false">CHANGE-ME</string>
     <string name="google_api_key" translatable="false">AIzaSyBLWJEbGBr37Vc0zscXUBG7idCIqdB6-l8</string>
-    <string name="google_app_id" translatable="false">1:745810904551:android:b27dfe31c9057e9d</string>
+    <string name="google_app_id" translatable="false">1:745810904551:android:06e106528bd423de316942</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLWJEbGBr37Vc0zscXUBG7idCIqdB6-l8</string>
     <string name="google_storage_bucket" translatable="false">rentacar-5833f.appspot.com</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
